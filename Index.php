@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <title>JS Tetris by MB</title>
-        <link rel="stylesheet" type="text/css" href="js_tetris.css">
+        <link rel="stylesheet" type="text/css" href="css/js_tetris.css">
     </head>
     
     <body onkeydown="storeKey(event)">

@@ -66,13 +66,13 @@ newCordinateArray = Score(newCordinateArray);
 
 
 function createObject(){
-    var tetro_j= ['tetro_j.png', 'tetro_j1.png', 'tetro_j2.png', 'tetro_j3.png'];
-    var tetro_i = ['tetro_i.png', 'tetro_i1.png'];
-    var tetro_l = ["tetro_l.png", "tetro_l1.png", "tetro_l2.png", "tetro_l3.png"]
-    var tetro_o = ["tetro_o.png"];
-    var tetro_s = ["tetro_s.png", "tetro_s1.png"];
-    var tetro_t = ["tetro_t.png", "tetro_t1.png", "tetro_t2.png", "tetro_t3.png"];
-    var tetro_z = ["tetro_z.png", "tetro_z1.png"];
+    var tetro_j= ['img/tetro_j.png', 'img/tetro_j1.png', 'img/tetro_j2.png', 'img/tetro_j3.png'];
+    var tetro_i = ['img/tetro_i.png', 'img/tetro_i1.png'];
+    var tetro_l = ["img/tetro_l.png", "img/tetro_l1.png", "img/tetro_l2.png", "img/tetro_l3.png"]
+    var tetro_o = ["img/tetro_o.png"];
+    var tetro_s = ["img/tetro_s.png", "img/tetro_s1.png"];
+    var tetro_t = ["img/tetro_t.png", "img/tetro_t1.png", "img/tetro_t2.png", "img/tetro_t3.png"];
+    var tetro_z = ["img/tetro_z.png", "img/tetro_z1.png"];
     var types =[tetro_j, tetro_i, tetro_l, tetro_o, tetro_s, tetro_t, tetro_z];
     var pickOne = Math.floor(Math.random()*7);
     
