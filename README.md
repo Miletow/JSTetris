@@ -1,2 +1,1 @@
-This project was done without any internet. I started the project with only the images. 
-I actually didnt decide fully to do the project. It just kind of happened. Halfway in i realised that i didnt fully know the rules of the game or how the game is suppose to work. So a big one for this project was the importance of planning before coding. 
+This project was done without any internet. I started the project with only the images.
